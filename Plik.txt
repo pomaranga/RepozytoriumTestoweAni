@@ -1,3 +1,2 @@
-Pierwsza linijka
 Druga linijka
-Trzecia linijka
+Trzecia linijka kodu
